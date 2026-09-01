@@ -30,7 +30,7 @@ $produto = $p->buscarProdutosPorId($_GET['id']);
 			padding: 1%;
 			background-color: rgb(123,104,238,.4);
 			margin: 10px;
-			height: 150px;
+			height: 250px;
 			cursor: pointer;
 		}
 		img{
